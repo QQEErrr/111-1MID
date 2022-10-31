@@ -22,7 +22,7 @@
                 <asp:Button ID="btn_Submit" runat="server" Text="掛號" Width="80px" Visible="False" OnClick="btn_Submit_Click" />
             </asp:Panel>
             <asp:Panel ID="pl_Msg" runat="server" Width="500px" BorderWidth="1px" Visible="False">
-                <asp:Label ID="lb_Msg" runat="server" Text="Label"></asp:Label><asp:LinkButton ID="LinkButton1" runat="server" Font-Names="重新填寫">LinkButton</asp:LinkButton></asp:Panel>
+            <asp:Label ID="lb_Msg" runat="server" Text="Label"></asp:Label><asp:LinkButton ID="LinkButton1" runat="server" Font-Names="重新填寫">LinkButton</asp:LinkButton></asp:Panel>
         </div>
     </form>
 </body>
